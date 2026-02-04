@@ -8,7 +8,7 @@
 # or from the command line: R CMD BATCH 01_code/00_rundirectory.R
 #
 # Authors:
-# - Sany León
+# - Sany León Curasi
 # - Andrés Camilo Suárez
 # - Juan Rueda
 ##########################################################
